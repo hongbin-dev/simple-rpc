@@ -1,0 +1,3 @@
+rootProject.name = 'simple-rpc'
+include 'grpc-java-client'
+include 'grpc-server'
